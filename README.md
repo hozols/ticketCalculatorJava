@@ -1,1 +1,2 @@
 # ticketCalculatorJava
+Build with maven
