@@ -1,0 +1,13 @@
+{
+  "destinations": [
+    {
+      "city": "Vilnius",
+      "price": "10"
+    },
+    {
+      "city": "Tallin",
+      "price": "20"
+    }
+  ],
+  "vat": "21"
+}
